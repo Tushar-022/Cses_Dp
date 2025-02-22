@@ -1,0 +1,1 @@
+{"name":"Local: removingDigits","url":"d:\\dsa revision\\Cses dp\\removingDigits.cpp","tests":[{"id":1740223954727,"input":"27","output":"5"},{"id":1740226836621,"input":"19","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\dsa revision\\Cses dp\\removingDigits.cpp","group":"local","local":true}
